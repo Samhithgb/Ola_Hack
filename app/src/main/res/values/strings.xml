@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">OlaRounds</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_id">Login ID</string>
+    <string name="password">Password</string>
+    <string name="heading">OLA ROUNDS</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="title_activity_sign_up">Sign_up</string>
+    <string name="name">Name</string>
+    <string name="password1">password</string>
+    <string name="pass2">password</string>
+    <string name="done">New Button</string>
+    <string name="done1">Done</string>
+    <string name="confirm">Confirm password</string>
+    <string name="pass">Enter password</string>
+    <string name="email">E-mail</string>
+    <string name="ph">Ph</string>
+    <string name="pass12">Enter Password</string>
+    <string name="sin">SIGN UP</string>
+    <string name="title_activity_genres">Genres</string>
+    <string name="allbang">All Bangalore Darshan!</string>
+    <string name="food">Food Lovers</string>
+    <string name="nerd">Nerds Day Out!</string>
+    <string name="devotee">Devotees Delight!!</string>
+    <string name="custom">Custom Options</string>
+    <string name="title_activity_place_list">PlaceList</string>
+    <string name="back">Back</string>
+    <string name="dn">Done</string>
+    <string name="title_activity_web_view">webView</string>
+    <string name="title_activity_book_now">BookNow</string>
+    <string name="booooo">Time after which to book!</string>
+    <string name="bookers">Book After Hours</string>
+</resources>
