@@ -7,3 +7,10 @@ The user can select amongst various different themes to tour the city in like 'F
 On selection of the destinations a schedule is created by taking the GPS co-ordinates of the destinations and the persons destination. 
 
 Alarms and alerts are given set by step as the tour progresses.
+
+#Team Members
+1.Amith Raj S N
+2.Saandeepa T N
+3.Samhith G B
+4.Prabhjeet Singh Chawla
+5.Pradeep V R
